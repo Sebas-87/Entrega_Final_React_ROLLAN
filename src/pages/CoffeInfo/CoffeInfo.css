@@ -1,0 +1,29 @@
+.coffeInfoBody {
+    background-color: #cca25f; /* Color de fondo blanco */
+    color: #333; /* Texto en color oscuro */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Sombra suave */
+    font-family: Arial, sans-serif;
+  }
+  
+  .coffeInfoBody h1 {
+    font-size: 24px;
+    color: #8B4513; /* Color marrón (café) para el título */
+    margin-bottom: 10px;
+  }
+  
+  .coffeInfoBody p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .coffeInfoBody a {
+    color: #D2691E; /* Color marrón (canela) para los enlaces */
+    text-decoration: underline;
+  }
+  
+  .coffeInfoBody a:hover {
+    color: #8B4513; /* Cambio de color al pasar el cursor por encima del enlace */
+  }
+  

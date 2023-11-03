@@ -1,0 +1,29 @@
+.NavBar {
+    background-color: #D2691E;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a {
+    color: rgb(252, 249, 249);
+    font-size: 23px;
+    list-style: none;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(161, 161, 161);
+    cursor: pointer;
+}
+
+.Enlaces a {
+    margin: 50px;
+}
+
+.ActiveOption {
+    display: inline;
+    border-radius: 5px;
+    background-color: rgba(188, 11, 11, 0.658);;
+}

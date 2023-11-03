@@ -1,0 +1,50 @@
+article {
+    background-color: #a6550595; 
+    border: 1px solid #ccc; /* Borde gris claro */
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    max-width: 300px;
+  }
+  
+  .Header {
+    text-align: center;
+  }
+  
+  .ItemHeader {
+    font-size: 24px;
+    color: #0b0b0a; /* Color marrón (café) */
+  }
+  
+  .ItemImg {
+    max-width: 100%;
+    border: 1px solid #ccc; /* Borde para la imagen */
+    border-radius: 10px;
+  }
+  
+  .Info {
+    margin: 10px 0;
+  }
+  
+  .ItemFooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .Option {
+    background-color: #D2691E; /* Color marrón (canela) */
+    color: #fff; /* Texto en blanco */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .Option:hover {
+    background-color: #8B4513; /* Cambio de color al pasar el cursor por encima */
+  }
+  

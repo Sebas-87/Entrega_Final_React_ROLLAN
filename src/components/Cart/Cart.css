@@ -1,0 +1,21 @@
+.Checkout {
+    display: block;
+    background-color: #D2691E; /* Color marrón (canela) */
+    color: #fff; /* Texto en blanco */
+    padding: 10px; /* Espaciado interno */
+    border: 2px solid #A0522D; /* Borde marrón más oscuro */
+}
+
+a.Productos {
+    display: block;
+    background-color: #8B4513; /* Color marrón más oscuro (café) */
+    color: #fff; /* Texto en blanco */
+    padding: 10px; /* Espaciado interno */
+    border: 2px solid #A0522D; /* Borde marrón (canela) */
+    text-decoration: none; /* Elimina subrayado de enlaces */
+}
+
+/* Cambiar color al pasar el cursor por encima de los enlaces */
+a.Productos:hover {
+    background-color: #A0522D; /* Color marrón (canela) más claro */
+}

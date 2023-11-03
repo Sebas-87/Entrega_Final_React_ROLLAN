@@ -1,0 +1,38 @@
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .Form {
+    background-color: #FFF; /* Color de fondo blanco */
+    padding: 20px;
+    border: 1px solid #ccc; /* Borde con color gris claro */
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  .Label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .Input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc; /* Borde con color gris claro */
+    border-radius: 5px;
+  }
+  
+  .Button {
+    background-color: #D2691E; /* Color marrón (canela) */
+    color: #fff; /* Texto en blanco */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

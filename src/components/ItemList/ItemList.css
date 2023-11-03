@@ -1,0 +1,6 @@
+.ListGroup {
+    display: flex;
+    align-items: baseline; /* Alinea los elementos verticalmente en la línea de base */
+    justify-content: space-around; /* Espacio uniforme alrededor de los elementos */
+  }
+  

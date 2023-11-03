@@ -1,0 +1,35 @@
+.Counter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #8B4513; /* Color marrón (café) */
+    color: #fff; /* Texto en blanco */
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .Controls {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Button {
+    background-color: #D2691E; /* Color marrón (canela) */
+    color: #fff; /* Texto en blanco */
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 0 10px;
+  }
+  
+  .Number {
+    font-size: 20px;
+  }
+  
+  .Counter button:disabled {
+    background-color: #ccc; /* Botón deshabilitado en color gris claro */
+    cursor: not-allowed;
+  }
+  

@@ -1,0 +1,17 @@
+.Cartwidget {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #D2691E; /* Color marrón (canela) */
+    color: #fff; /* Texto en blanco */
+    padding: 5px 10px;
+    border-radius: 50%; /* Hace que el fondo sea un círculo */
+    margin-right: 10px;
+  }
+  
+  .CartImg {
+    width: 20px;
+    height: auto;
+    vertical-align: middle; /* Alinea la imagen verticalmente con el texto */
+    margin-right: 5px; /* Espaciado entre la imagen y el número */
+  }
+  
